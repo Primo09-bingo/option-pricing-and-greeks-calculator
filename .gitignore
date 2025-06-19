@@ -1,0 +1,65 @@
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de données
+*.csv
+*.xlsx
+*.db
+*.sqlite3
+
+# Fichiers de log
+*.log
+
+# Fichiers Streamlit
+.streamlit/
+
+# Fichiers de cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Fichiers temporaires
+*.tmp
+*~
+
+# Fichiers de configuration locaux
+.env
+.env.local
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
