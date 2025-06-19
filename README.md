@@ -1,3 +1,17 @@
+# Option Pricing and Greeks Calculator
+
+Ce projet est une application interactive construite avec Streamlit pour calculer les prix des options (modèle Black-Scholes) et leurs Grecs associés.
+
+**➡️ Accéder à l'application en direct ici : [Mon Outil de Calcul d'Options](https://option-pricing-and-greeks-calculator-ffwsqnmhpy93pyrmbjbgeo.streamlit.app/)**
+
+---
+
+## Installation et Utilisation Locale (pour les développeurs)
+Si vous souhaitez exécuter cette application localement :
+
+1. Clonez ce dépôt :
+   ```bash
+   git clone [https://github.com/Primo09-bingo/option-pricing-and-greeks-calculator.git](https://github.com/Primo09-bingo/option-pricing-and-greeks-calculator.git)
 # Calculateur d'Options Black-Scholes
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
